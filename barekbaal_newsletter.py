@@ -4,82 +4,67 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import os
 from dotenv import load_dotenv
+import re
+from random import seed
+from random import randint
+
+class Mejlowanie:
+    def __init__(self):
+        self.konfiguracje()
+        self.main()
 
 
-def konfiguracje():
-    load_dotenv()
+    def konfiguracje(self):
+        load_dotenv()
+
+   
+    def przygotowanie_zawartosci_maila(self):
+        print("niech ryczy")
+        self.file_csv="./"+"motyw_tygodniowy"+"/"+"fārsī.csv"
+        with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+            wszystkie_zapytania=file_csv.read()
+        wzor_regeksowy=r'---*'
+        lista_zapytan=re.split(wzor_regeksowy,wszystkie_zapytania)
+        print(lista_zapytan)
+        self.losowanie(lista_zapytan)
+        self.mail_content=lista_zapytan[self.wylosowany]
 
 
-def wysylanie(sender_address, sender_pass, receiver_address, mail_content):
-    #Setup the MIME
-    message = MIMEMultipart()
-    message['From'] = sender_address
-    message['To'] = receiver_address
-    message['Subject'] = 'semper - zawsze, et - i, ego - ja '   #The subject line
-    #The body and the attachments for the mail
-    message.attach(MIMEText(mail_content, 'plain'))
-    #Create SMTP session for sending the mail
-    session = smtplib.SMTP('smtp.gmail.com', 587) #use gmail with port
-    session.starttls() #enable security
-    session.login(sender_address, sender_pass) #login with mail_id and password
-    text = message.as_string()
-    session.sendmail(sender_address, receiver_address, text)
-    session.quit()
-    print('Mejl wysłany')
+    def losowanie(self, lista_zapytan):
+        seed(1)
+        self.wylosowany=randint(1,len(lista_zapytan)-1)
+        print(self.wylosowany)
 
 
-def main():
-    konfiguracje()
-    mail_content = '''onerāria
+    def main(self):
+        self.przygotowanie_zawartosci_maila()
+        #The mail addresses and password
+        self.sender_address = os.getenv('SENDER_ADDRESS')
+        self.sender_pass = os.getenv('SENDER_PASS')
+        self.receiver_address = os.getenv('RECEIVER_ADDRESS')
+        self.wysylanie()
 
-ōlim una nāvis solvit vela
-eī ‘olla theāria’ nōmen erat
-aurae flābat ut prōram mergere 
-facite iter scītē
 
-mox adsit onerāria,
-theam, rhomium, sacchara,
-afferat et post sectūram
-in ōtium ībimus
-
-post parvōs diēs in mare altō
-navem appāruit bālaena
-exin navarchus dedit jūra
-fuiss’ opus cetum ductū
-
-sunt caesī ratēs magnā pugnā
-quia bālaen’ ē altā undā
-eīs damnum dabat caudā suā 
-sīc cēpit jaculī vulnus 
-
-nāvarchō, līneā vexatīs,
-cētāriī vidēbantur fātus
-sīc rīdet mens nunquam avārīs
-enim remulcum manet
-
-remīsit cetī mersiōne
-remulcum in secūtiōne
-sed manet pugna usque ā hāc hōrā
-(usqu’ ‘ac ‘ora)
-nītuntur in gressiōne
-
-quātenus sciō, superest pugna,
-jam vēnāns cētus, remulcum
-dūrat,
-ab onerāriā spēs aguntur
-nāvarchō, gregī, omnibus
-
-mox adsit onerāria,
-theam, rhomium, sacchara,
-afferat et post sectūram
-in ōtium ībimus
-    '''
-    #The mail addresses and password
-    sender_address = os.getenv('SENDER_ADDRESS')
-    sender_pass = os.getenv('SENDER_PASS')
-    receiver_address = os.getenv('RECEIVER_ADDRESS')
-    wysylanie(sender_address, sender_pass, receiver_address, mail_content)
+    def wysylanie(self):
+        #Setup the MIME
+        self.message = MIMEMultipart()
+        self.message['From'] = self.sender_address
+        self.message['To'] = self.receiver_address
+        self.message['Subject'] = self.mail_content.split('\n', 2)[1] #The subject line
+        print("ahoj" + str(self.message['Subject']))
+        #The body and the attachments for the mail
+        self.message.attach(MIMEText(self.mail_content, 'plain'))#, "UTF-8"))
+        #Create SMTP session for sending the mail
+        session = smtplib.SMTP('smtp.gmail.com', 587) #use gmail with port
+        session.starttls() #enable security
+        session.login(self.sender_address, self.sender_pass) #login with mail_id and password
+        print("self.message")
+        #print(str(self.message))
+        text = self.message.as_string()
+        session.sendmail(self.sender_address, self.receiver_address, text)
+        session.quit()
+        print('Mejl wysłany')
 
 
 if __name__ == "__main__":
-    main()
+    mejlowanie=Mejlowanie()
