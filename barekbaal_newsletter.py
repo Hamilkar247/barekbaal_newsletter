@@ -7,6 +7,10 @@ from dotenv import load_dotenv
 import re
 from random import seed
 from random import randint
+from datetime import datetime
+import sys
+
+now = datetime.now()
 
 class Mejlowanie:
     def __init__(self):
@@ -21,14 +25,20 @@ class Mejlowanie:
     def przygotowanie_zawartosci_maila(self):
         print("niech ryczy")
         self.file_csv="./"+"motyw_tygodniowy"+"/"+"fārsī.csv"
-        with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
-            wszystkie_zapytania=file_csv.read()
-        wzor_regeksowy=r'---*'
-        lista_zapytan=re.split(wzor_regeksowy,wszystkie_zapytania)
-        print(lista_zapytan)
-        self.losowanie(lista_zapytan)
-        self.mail_content=lista_zapytan[self.wylosowany]
-
+        if os.path.isfile(self.file_csv):
+            with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+                wszystkie_zapytania=file_csv.read()
+            wzor_regeksowy=r'---*\n'
+            lista_zapytan=re.split(wzor_regeksowy,wszystkie_zapytania)
+            print(lista_zapytan)
+            self.losowanie(lista_zapytan)
+            self.mail_content=lista_zapytan[self.wylosowany]
+        else:
+            print("nie znaleziono pliku csv")
+            print("czy jest folder motyw_tygodniowy?")
+            print(os.path.isdir("./motyw_tygodniowy"))
+            os.getcwd()
+            sys.exit()
 
     def losowanie(self, lista_zapytan):
         seed(1)
@@ -67,4 +77,8 @@ class Mejlowanie:
 
 
 if __name__ == "__main__":
+    os.chdir(os.getenv("TRZEWIA_PROGRAMU"))
+    now = datetime.now()
+    current_time = now.strftime("%H:%M:%S")
+    print("Obecny czas = "+current_time)
     mejlowanie=Mejlowanie()

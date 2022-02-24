@@ -287,3 +287,762 @@ FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fār
     self.mail_content = 
                        ^
 SyntaxError: invalid syntax
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+niech ryczy
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 70, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 14, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 40, in main
+    self.przygotowanie_zawartosci_maila()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 24, in przygotowanie_zawartosci_maila
+    with open(self.file_csv, 'r', encoding="utf-8") as file_csv:
+FileNotFoundError: [Errno 2] No such file or directory: './motyw_tygodniowy/fārsī.csv'
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 75
+    print("Obecny czas= "+)
+                          ^
+SyntaxError: invalid syntax
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 27
+    if self.file_csv
+                   ^
+SyntaxError: invalid syntax
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 27
+    if os.is_pathself.file_csv
+                             ^
+SyntaxError: invalid syntax
+Obecny czas = 08:29:01
+niech ryczy
+nie znaleziono pliku csv
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 79, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 17, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 51, in main
+    self.wysylanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 59, in wysylanie
+    self.message['Subject'] = self.mail_content.split('\n', 2)[1] #The subject line
+AttributeError: 'Mejlowanie' object has no attribute 'mail_content'
+Obecny czas = 08:30:01
+niech ryczy
+nie znaleziono pliku csv
+czy jest folder motyw_tygodniowy?
+False
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 80, in <module>
+    mejlowanie=Mejlowanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 17, in __init__
+    self.main()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 52, in main
+    self.wysylanie()
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 60, in wysylanie
+    self.message['Subject'] = self.mail_content.split('\n', 2)[1] #The subject line
+AttributeError: 'Mejlowanie' object has no attribute 'mail_content'
+Obecny czas = 08:31:02
+niech ryczy
+nie znaleziono pliku csv
+czy jest folder motyw_tygodniowy?
+False
+Obecny czas = 08:32:01
+niech ryczy
+nie znaleziono pliku csv
+czy jest folder motyw_tygodniowy?
+False
+Obecny czas = 08:33:01
+niech ryczy
+nie znaleziono pliku csv
+czy jest folder motyw_tygodniowy?
+False
+Obecny czas = 08:34:01
+niech ryczy
+nie znaleziono pliku csv
+czy jest folder motyw_tygodniowy?
+False
+Obecny czas = 08:35:01
+niech ryczy
+nie znaleziono pliku csv
+czy jest folder motyw_tygodniowy?
+False
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 80, in <module>
+    os.chdir()
+TypeError: chdir() missing required argument 'path' (pos 1)
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 80, in <module>
+    os.chdir()
+TypeError: chdir() missing required argument 'path' (pos 1)
+Traceback (most recent call last):
+  File "/home/matball-ssd/Projects/barekbaal_newsletter/barekbaal_newsletter.py", line 80, in <module>
+    os.chdir(os.getenv("TRZEWIA_PROGRAMU"))
+TypeError: chdir: path should be string, bytes, os.PathLike or integer, not NoneType
