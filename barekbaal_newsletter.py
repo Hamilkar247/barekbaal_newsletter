@@ -3,6 +3,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import os
+import traceback
 from dotenv import load_dotenv
 import re
 from random import seed
@@ -19,7 +20,8 @@ class Mejlowanie:
 
 
     def konfiguracje(self):
-        load_dotenv()
+        #load_dotenv()
+        pass
 
    
     def przygotowanie_zawartosci_maila(self):
@@ -77,8 +79,13 @@ class Mejlowanie:
 
 
 if __name__ == "__main__":
-    os.chdir(os.getenv("TRZEWIA_PROGRAMU"))
-    now = datetime.now()
-    current_time = now.strftime("%H:%M:%S")
-    print("Obecny czas = "+current_time)
-    mejlowanie=Mejlowanie()
+    try:
+        load_dotenv()
+        os.chdir(os.getenv("TRZEWIA_PROGRAMU"))
+        now = datetime.now()
+        current_time = now.strftime("%H:%M:%S")
+        print("Obecny czas = "+current_time)
+        mejlowanie=Mejlowanie()
+    except Exception as e:
+        print(traceback.print_exc)
+        print("sprawdź czy twój plik .env istnieje")
